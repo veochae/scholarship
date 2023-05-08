@@ -1,5 +1,3 @@
-!pip install yake
-
 import pandas as pd
 import numpy as np
 import yake

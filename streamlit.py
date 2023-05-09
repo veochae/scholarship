@@ -68,7 +68,7 @@ def intro():
 
     st.write("In this analysis, we analyze the Data Science job postings acquired through google jobs in order to examine the different needs of a prospective Data Scientist who are trying to enter the world of Data Science.")
     st.write("In the recent years, since COVID-19, the so called 'excitement' of silicon valley technology jobs have dimished, as more people sought for security of occupation in the times of uncertainty." )
-    st.write("Even myself, whose dream was the initially go work for the FAANG companies, have drastically changed my mind to staying in the consumer product goods sector of business, in order to learn and engage in a certain job security environment.")
+    st.write("Even myself, whose dream was to initially go work for the FAANG companies, have drastically changed my mind to staying in the consumer product goods sector of business, in order to learn and engage in a certain job security environment.")
     st.write("With the collected JSON dataset, we first extracted the important information that any job description could yield: Job Title, Company Name, City, State, Job Description, Qualificiations, Responsibilities, Benefits, Role Type, and Salary.")
     st.write("Through the dataset, we aim to answer one large question, and guide the readers to make logical decisions using data behind their job choices.")
     st.write("Main Question: Is District of Columbia Attractive for Data Scientists?")
